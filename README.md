@@ -12,3 +12,9 @@ Dari ke-4 kegiatan lomba tersebut jenis lomba yang saya dan tim ikuti adalah **B
 | Paulus Caesario Dito Putra Hartono | Ketua Tim | [github](https://github.com/caesariodito) |
 | Daniel Budi Prasetyo | Anggota Tim | [github](https://github.com/danielprasetyo7952) |
 | Rafael Mahesa Putra | Anggota Tim | [github](https://github.com/rafaelmahesa) |
+
+<br><br>
+
+<div align='center'>
+    <img src="https://media.tenor.com/VtFUW-durpoAAAAC/kururin-kuru-kuru.gif">
+</div>
