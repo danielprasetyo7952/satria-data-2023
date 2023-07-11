@@ -26,6 +26,10 @@ Our proposed solution involved a three-step process:
 2. Implementing a CTC Model to predict the license plate.
 3. Employing a pipeline that included license plate localization, character segmentation, and character recognition with Yolov8 and Xception Transfer Learning
 
+### Example of the majority voting
+
+![majority-voting](docs/majority-voting.png)
+
 We combined the results from these three steps and applied majority voting in hopes of enhancing the outcome.
 
 ## Result
